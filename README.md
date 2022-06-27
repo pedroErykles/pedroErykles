@@ -2,9 +2,10 @@
 
 
 🔭 Atualmente num Curso Técnico em Informática 2/3 <br>
-🌱 Estou estudando Java/POO e JavaScript <br>
-📫 Contato: Meu gmail: pedroerykles@gmail.com <br>
-
+🌱 Estou estudando Java e JavaScript <br>
+📫 Contato: pedroerykles@gmail.com <br>
+☁️ My AWS Academy Cloud Foundations Badge: https://www.credly.com/badges/1dc690e8-22f3-45ae-87fb-f6909a4d1686/public_url
+<hr>
 
 
 <a href="https://github.com/pedroErykles"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroErykles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
