@@ -1,7 +1,7 @@
 ## Olá! Sou Pedro Erykles. 
 
 
-🔭 Atualmente num Curso Técnico em Informática 2/3 <br>
+🔭 Atualmente num Curso Técnico em Informática 3/3 <br>
 🌱 Estou estudando Java e JavaScript <br>
 📫 Contato: pedroerykles@gmail.com <br>
 ☁️ My AWS Academy Cloud Foundations Badge: https://www.credly.com/badges/1dc690e8-22f3-45ae-87fb-f6909a4d1686/public_url
