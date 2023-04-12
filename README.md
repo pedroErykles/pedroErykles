@@ -13,9 +13,9 @@
 <div>
 <img align="center" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/spring/spring-original.svg" />
+<img align="center" widht="40" height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/spring/spring-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg)" />
 <img align="center" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/react/react-original.svg" />
-<img align="center" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/typescript/typescript-original.svg" />
+<img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
 </div> 
 <hr>
 <div>
