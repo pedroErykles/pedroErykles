@@ -7,7 +7,8 @@
 
 ### Cursos:
 ☁️ My AWS Academy Cloud Foundations Badge: https://www.credly.com/badges/1dc690e8-22f3-45ae-87fb-f6909a4d1686/public_url[
-](https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg)
+]
+<br />
 ☁️ Suporte Técnico by Dell Technologies
 <hr>
 
