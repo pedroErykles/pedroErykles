@@ -12,8 +12,8 @@
 ☁️ Suporte Técnico by Dell Technologies
 <hr>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroErykles&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroErykles&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroErykles&theme=tokyonight">
 </div>
 <br>
 <div>
