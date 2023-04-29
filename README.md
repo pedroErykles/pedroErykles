@@ -13,7 +13,9 @@
 <hr>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=pedroErykles&theme=tokyonight">
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroErykles&theme=tokyonight">
+</div>
+<br>
 <div>
 <img align="center" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
