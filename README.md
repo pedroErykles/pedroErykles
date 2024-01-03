@@ -16,7 +16,7 @@
 <img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
 <img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 <img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
-<img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" />
 <img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 </div> 
