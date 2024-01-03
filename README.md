@@ -1,15 +1,9 @@
 ## Olá! Sou Pedro Erykles. 
 
-
-🔭 Atualmente num Curso Técnico em Informática 3/3 <br>
-🌱 Estudando Java e JavaScript <br>
-📫 Contato: pedroerykles@gmail.com <br>
-
 ### Cursos:
-☁️ My AWS Academy Cloud Foundations Badge: https://www.credly.com/badges/1dc690e8-22f3-45ae-87fb-f6909a4d1686/public_url[
-]
+🌐☁ My AWS Academy Cloud Foundations Badge: https://www.credly.com/badges/1dc690e8-22f3-45ae-87fb-f6909a4d1686/public_url
 <br />
-☁️ Suporte Técnico by Dell Technologies
+🔧💻 Suporte Técnico by Dell Technologies
 <hr>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroErykles&theme=tokyonight">
