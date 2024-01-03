@@ -16,9 +16,13 @@
 <img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
 <img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 <img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
+<img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" />
+<img align="center" widht="40" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 </div> 
 <hr>
 <div>
 <a href="https://www.instagram.com/pedroerykles/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div> 
+
 
